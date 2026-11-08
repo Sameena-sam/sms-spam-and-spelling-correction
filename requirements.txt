@@ -1,0 +1,16 @@
+# ===== To run the notebook =====
+jupyter              # to open/run NLP_Assignment.ipynb
+
+# ===== Half 1: Spelling Correction System =====
+nltk>=3.8            # Reuters domain corpus + tokenisation (tkinter ships with Python)
+
+# ===== Half 2: Text Classification =====
+scikit-learn>=1.3
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+streamlit
+ucimlrepo
+wordcloud            # optional (word clouds in the EDA)
